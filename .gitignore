@@ -1,0 +1,60 @@
+﻿# Dependencies
+node_modules
+node_modules/
+/.pnp
+.pnp.js
+
+# vscode local history
+.history
+
+# Next.js
+/.next/
+.next/
+/out/
+out/
+
+# Production
+/build
+build/
+dist/
+
+# Testing
+/coverage
+
+# Environment Variables
+.env
+.env.local
+.env*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.pem
+.env*
+
+# Large files
+*.node
+*.next. e n v . l o c a l 
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ 
+.vercel
+
+#ts
+tsconfig.tsbuildinfo
+
+# Sentry
+.sentry.properties
